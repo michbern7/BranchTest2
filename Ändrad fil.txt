@@ -1,5 +1,6 @@
 Start MasterBranch
 MasterBranch Commit 1
+MasterBranch Commit 2
 Slut MasterBranch
 
 
