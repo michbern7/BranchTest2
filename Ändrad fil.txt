@@ -16,4 +16,5 @@ Slut MergadBranch
 
 Start HTSBranch
 HTSBranch Commit 1
+HTSBranch Commit 2
 Slut HTSBranch
